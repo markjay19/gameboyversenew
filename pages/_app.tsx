@@ -16,8 +16,6 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta
           name="description"
           content="This is for Chibverse Community."
-      <img src="public/logo.png"
-      />
         />
         <meta
           name="keywords"
