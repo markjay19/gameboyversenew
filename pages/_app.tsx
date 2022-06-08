@@ -16,11 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta
           name="description"
           content="This is for Chibverse Community."
-      <img
-        src={`/logo.png`}
-        alt="Thirdweb Logo"
-        width={135}
-        className={styles.thirdwebLogo}
+      <img src="public/logo.png"
       />
         />
         <meta
