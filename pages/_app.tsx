@@ -15,7 +15,13 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="Learn How To Use Thirdweb's NFT Drop contract and create a customizable NFT Drop minting page"
+          content="This is for Chibverse Community."
+      <img
+        src={`/logo.png`}
+        alt="Thirdweb Logo"
+        width={135}
+        className={styles.thirdwebLogo}
+      />
         />
         <meta
           name="keywords"
