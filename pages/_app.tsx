@@ -19,7 +19,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta
           name="keywords"
-          content="Thirdweb, thirdweb NFT drop, how to make thirdweb nft drop, how to make nft collection thirdweb"
+          content="This is for Chibverse Community"
         />
       </Head>
       <Component {...pageProps} />
